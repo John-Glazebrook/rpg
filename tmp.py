@@ -9,3 +9,5 @@ locations = {
 
 for i in range(1,3):
     print(locations[i]["name"])
+
+print("Hello!")
